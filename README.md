@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pantira R.
 ==================================================================================================================================
 
-Student
+Hello! I'm glad you're here. I graduated from RMUTT University with a degree in Computer Engineering.
 -------
 
-* 🌍  I'm based in Pathum Thani , Thailand
+* 🌍  I'm based in Nakhon Pathom , Thailand
 * ✉️  You can contact me at [pantiraploy818@gmail.com](mailto:pantiraploy818@gmail.com)
 
 ### Skills
